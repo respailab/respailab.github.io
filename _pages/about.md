@@ -1,17 +1,17 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: "Transforming Ideas into Intelligent Solutions: Welcome to the RESPAI Lab!"
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: logo_respai.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Campus 14, Kaladan</p>
+    <p>KiiT University, Bhubaneswar</p>
+    <p>Odisha, India</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
@@ -19,8 +19,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Here we're passionate about exploring Artificial Intelligence (AI) and its applications in everyday scenarios. Our team focuses on several key areas:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+#### Computer Vision: 
+We're dedicated to teaching computers to see and understand the visual world. This includes tasks like recognizing objects in images and understanding what's happening in videos.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+#### Natural Language Processing (NLP): 
+Ever wondered how your computer understands what you type or say? That's where our expertise in natural language processing (NLP) comes in. We're working on improving how machines understand and generate human language.
+
+#### Large Language Models (LLM): 
+We're fascinated by large language models (LLMs) that can mimic human language. These models have a wide range of applications, from summarizing text to answering questions.
+
+#### Machine Unlearning: 
+Imagine if machines could continuously learn and adapt to new information while also forgetting outdated knowledge and private information. That's the concept behind our research in machine unlearning.
+
+<hr>

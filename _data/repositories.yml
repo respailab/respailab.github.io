@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - murari023
+  - umakantamaharana
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - murari023/awesome-background-subtraction
+  - murari023/awesome-aerial-object-detection
