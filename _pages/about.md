@@ -21,16 +21,20 @@ social: true # includes social icons at the bottom of the page
 
 Here we're passionate about exploring Artificial Intelligence (AI) and its applications in everyday scenarios. Our team focuses on several key areas:
 
-#### Computer Vision: 
+#### Computer Vision:
+
 We're dedicated to teaching computers to see and understand the visual world. This includes tasks like recognizing objects in images and understanding what's happening in videos.
 
-#### Natural Language Processing (NLP): 
+#### Natural Language Processing (NLP):
+
 Ever wondered how your computer understands what you type or say? That's where our expertise in natural language processing (NLP) comes in. We're working on improving how machines understand and generate human language.
 
-#### Large Language Models (LLM): 
+#### Large Language Models (LLM):
+
 We're fascinated by large language models (LLMs) that can mimic human language. These models have a wide range of applications, from summarizing text to answering questions.
 
-#### Machine Unlearning: 
+#### Machine Unlearning:
+
 Imagine if machines could continuously learn and adapt to new information while also forgetting outdated knowledge and private information. That's the concept behind our research in machine unlearning.
 
 <hr>
