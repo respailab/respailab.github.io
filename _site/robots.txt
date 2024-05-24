@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://respailab.github.io/sitemap.xml
