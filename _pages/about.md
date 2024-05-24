@@ -1,11 +1,11 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: "Transforming Ideas into Intelligent Solutions: Welcome to the RESPAI Lab!"
 
 profile:
-  align: right
+  align: left
   image: logo_respai.png
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -18,6 +18,8 @@ latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+> "In the world of computer science, think beyond the algorithm and harness the power of ideas. Through innovative coding and relentless problem-solving, we unlock the keys to success and shape the digital future."
 
 Here we're passionate about exploring Artificial Intelligence (AI) and its applications in everyday scenarios. Our team focuses on several key areas:
 
