@@ -26,4 +26,22 @@ profiles:
     #   <p>3rd Floor, RespAI Lab, Campus 14, Block C, School of Computer Engineering</p>
     #   <p>KIIT, Bhubaneshwar</p>
     #   <p>India, 751024</p>
+
+  - align: left
+    image: members/vikram.jpg
+    content: about_vikram.md
+    image_circular: true # crops the image to make it circular
+    # more_info: >
+    #   <p>3rd Floor, RespAI Lab, Campus 14, Block C, School of Computer Engineering</p>
+    #   <p>KIIT, Bhubaneshwar</p>
+    #   <p>India, 751024</p>
+
+  - align: left
+    image: members/ayush.jpg
+    content: about_ayush.md
+    image_circular: true # crops the image to make it circular
+    # more_info: >
+    #   <p>3rd Floor, RespAI Lab, Campus 14, Block C, School of Computer Engineering</p>
+    #   <p>KIIT, Bhubaneshwar</p>
+    #   <p>India, 751024</p>
 ---
