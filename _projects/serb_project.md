@@ -2,7 +2,7 @@
 layout: page
 title: "Machine Unlearning"
 description: SERB funded project.
-img: "assets/img/serb-project-bg.jpg"
+img: "assets/img/serblogo.png"
 date: 2024-05-25
 category: funded
 ---
