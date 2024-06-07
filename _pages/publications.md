@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Welcome to the Publications page, where we spotlight top-notch research and insightful findings in the fields of machine learning, computer vision, Natural Lanugage Processing and more.
+description: Publications by categories in reversed chronological order.
 nav: true
 nav_order: 2
 ---
