@@ -17,4 +17,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<div> Welcome to our research lab, where we are dedicated to advancing the field of responsible AI. Our interdisciplinary team explores crucial aspects such as privacy, machine unlearning, data valuation, synthetic data, and generative AI. Through innovative research and collaboration, we aim to develop ethical AI technologies that prioritize user privacy and data integrity, ensuring a fair and transparent digital future.</div>
+Welcome to our research lab, where we are dedicated to advancing the field of responsible AI. Our interdisciplinary team explores crucial aspects such as privacy, machine unlearning, data valuation, synthetic data, and generative AI. Through innovative research and collaboration, we aim to develop ethical AI technologies that prioritize user privacy and data integrity, ensuring a fair and transparent digital future.
