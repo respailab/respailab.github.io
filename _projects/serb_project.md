@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Machine Unlearning"
-description: SERB funded project.
+title: SERB Startup Research Grant 
+description: SERB Funded Project [Jan 2024 - Present]
 img: "assets/img/serblogo.png"
 date: 2024-05-25
 category: funded
