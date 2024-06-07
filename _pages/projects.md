@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
+title: Research Grants
 permalink: /projects/
-description: A growing collection of your cool projects.
+description:
 nav: true
 nav_order: 3
 display_categories: [funded]
