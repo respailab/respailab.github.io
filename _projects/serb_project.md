@@ -19,7 +19,7 @@ _(Statutory Body Established Through an Act of Parliament: SERB Act 2008)_
 
 - **Project Title:** Machine Unlearning for Selective Removal of Digital Data Footprint from Deep Learning Models
 - **File Number:** SRG/2023/001686
-- **Principal Investigator:** Murari Mandal
+- **Principal Investigator (PI):** Dr. Murari Mandal
 - **Institute:** Kalinga Institute of Industrial Technology (KIIT)
 - **Project Start Date:** 02-Jan-2024
 - **Duration:** 24 months
@@ -27,6 +27,7 @@ _(Statutory Body Established Through an Act of Parliament: SERB Act 2008)_
 - **Total Budget:** 30,50,300 INR
 - **Status:** Ongoing
 - **Budget Released So Far:** 23,30,000 INR
+- **Research Fellow:** Umakanta Maharana
 
 ---
 
