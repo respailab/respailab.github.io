@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Mr. Umakanta Maharana joined as a Junior Researcher(PI: Dr. Murari Mandal)
+Mr. Umakanta Maharana joined as a Research Fellow(PI: Dr. Murari Mandal)
