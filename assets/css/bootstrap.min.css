@@ -92,16 +92,6 @@ p {
   margin-top: 0;
   margin-bottom: 1rem;
 }
-abbr[data-original-title],
-abbr[title] {
-  text-decoration: underline;
-  -webkit-text-decoration: underline dotted;
-  text-decoration: underline dotted;
-  cursor: help;
-  border-bottom: 0;
-  -webkit-text-decoration-skip-ink: none;
-  text-decoration-skip-ink: none;
-}
 address {
   margin-bottom: 1rem;
   font-style: normal;
@@ -1592,6 +1582,9 @@ a.close.disabled {
 .font-weight-lighter {
   font-weight: lighter !important;
 }
+.font-weight-bold {
+  font-weight: 700 !important;
+}
 .visible {
   visibility: visible !important;
 }
@@ -1604,9 +1597,6 @@ a.close.disabled {
   }
   a:not(.btn) {
     text-decoration: underline;
-  }
-  abbr[title]::after {
-    content: " (" attr(title) ")";
   }
   pre {
     white-space: pre-wrap !important;
