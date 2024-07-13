@@ -16,11 +16,13 @@ At RespAI Lab, we are dedicated to advancing the field of responsible AI. Our in
 ## Recent Publications
 
 ![Fast yet effective machine unlearning](assets/img/publication_preview/fast-unlearning.png)
+
 **Fast yet effective machine unlearning**  
 Ayush K Tarun, Vikram S Chundawat, Murari Mandal, and 1 more author  
 IEEE Transactions on Neural Networks and Learning Systems, 2023
 
 ![Zero-Shot Machine Unlearning](assets/img/publication_preview/zero-shot-unlearning.png)
+
 **Zero-Shot Machine Unlearning**  
 Vikram S. Chundawat, Ayush K. Tarun, Murari Mandal, and 1 more author  
 IEEE Transactions on Information Forensics and Security, 2023
