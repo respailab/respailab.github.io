@@ -1,6 +1,6 @@
 # RespAI Lab
 
-![RespAI Lab Logo](logo_respai.png)
+![RespAI Lab Logo](assets/img/logo_respai.png)
 
 Welcome to the RespAI Lab at KIIT Bhubaneswar, India! Our research goal is Ethical Innovation for a Transparent, Privacy-Respecting, and Safe AI Future.
 
