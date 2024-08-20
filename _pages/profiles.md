@@ -34,12 +34,12 @@ students:
     image_circular: true
 
   - align: left
-    image: members/image.png
+    image: members/priyansh.jpg
     content: about_priyansh.md
     image_circular: true
 
   - align: left
-    image: members/image.png
+    image: members/romit.jpg
     content: about_romit.md
     image_circular: true
 
