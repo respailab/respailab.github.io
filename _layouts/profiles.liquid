@@ -4,7 +4,6 @@ layout: page
 <div class="post">
   <article>
     {% if page.core_members %}
-      <h2>Core Members</h2>
       {% for profile in page.core_members %}
         <hr>
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}" style="max-width:15%">
