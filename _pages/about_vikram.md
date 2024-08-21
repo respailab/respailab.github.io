@@ -1,3 +1,3 @@
-## Vikram Singh Chundawat
+## Vikram Chundawat
 
-Personal Website: [Vikram Singh Chundawat](https://www.linkedin.com/in/vikram2000b/)  
+Personal Website: [Vikram Chundawat](https://www.linkedin.com/in/vikram2000b/)  

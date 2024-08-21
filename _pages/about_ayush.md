@@ -1,3 +1,3 @@
-## Ayush Kumar Tarun
+## Ayush Tarun
 
-Personal Website: [Ayush Kumar Tarun](http://ayushkumartarun.github.io/) 
+Personal Website: [Ayush Tarun](http://ayushkumartarun.github.io/) 
