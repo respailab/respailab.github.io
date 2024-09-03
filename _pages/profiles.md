@@ -47,4 +47,19 @@ students:
     image: members/niladri.jpg
     content: about_niladri.md
     image_circular: true
+
+  - align: left
+    image: members/prasana.jpg
+    content: about_prasana.md
+    image_circular: true
+
+  - align: left
+    image: members/puskar.jpg
+    content: about_puskar.md
+    image_circular: true
+
+  - align: left
+    image: members/yash.jpg
+    content: about_yash.md
+    image_circular: true
 ---
