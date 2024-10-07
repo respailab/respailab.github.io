@@ -1,3 +1,3 @@
-## Dr. Murari Mandal (Faculty)
+## [Dr. Murari Mandal](https://murarimandal.github.io/) 
 
-Personal Website: [Murari Mandal](https://murarimandal.github.io/) 
+Asst. Professor
