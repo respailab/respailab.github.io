@@ -39,11 +39,6 @@ students:
     image_circular: true
 
   - align: left
-    image: members/rishav.jpg
-    content: about_rishav.md
-    image_circular: true
-    
-  - align: left
     image: members/priyansh.jpg
     content: about_priyansh.md
     image_circular: true
