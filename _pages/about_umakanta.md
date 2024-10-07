@@ -1,3 +1,3 @@
-## Umakanta Maharana (Research Fellow)
+## [Umakanta Maharana](https://umakantamaharana.github.io/) 
 
-Personal Website: [Umakanta Maharana](https://umakantamaharana.github.io/) 
+Research Fellow
