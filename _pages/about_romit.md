@@ -1,3 +1,1 @@
-## Romit Chatterjee
-
-Personal Website: [Romit Chatterjee]() 
+## [Romit Chatterjee]() 

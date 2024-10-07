@@ -13,6 +13,11 @@ core_members:
     image_circular: true
 
   - align: left
+    image: members/yash.jpg
+    content: about_yash.md
+    image_circular: true
+
+  - align: left
     image: members/umakanta-maharana.jpeg
     content: about_umakanta.md
     image_circular: true
@@ -33,6 +38,11 @@ students:
     content: about_aakash.md
     image_circular: true
 
+  - align: left
+    image: members/rishav.jpg
+    content: about_rishav.md
+    image_circular: true
+    
   - align: left
     image: members/priyansh.jpg
     content: about_priyansh.md
@@ -58,8 +68,4 @@ students:
     content: about_puskar.md
     image_circular: true
 
-  - align: left
-    image: members/yash.jpg
-    content: about_yash.md
-    image_circular: true
 ---
