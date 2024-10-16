@@ -1,3 +1,1 @@
-## Niladri Sarkar
-
-Personal Website: [Niladri Sarkar]() 
+## [Niladri Sarkar]() 
