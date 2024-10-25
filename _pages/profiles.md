@@ -1,28 +1,66 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: People
+description: Members of RespAI Lab
 nav: true
 nav_order: 7
 
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+core_members:
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+    image: members/murari-mandal.jpeg
+    content: about_murari.md
+    image_circular: true
+
+  - align: left
+    image: members/umakanta-maharana.jpeg
+    content: about_umakanta.md
+    image_circular: true
+
+  - align: left
+    image: members/vikram.jpg
+    content: about_vikram.md
+    image_circular: true
+
+  - align: left
+    image: members/ayush.jpg
+    content: about_ayush.md
+    image_circular: true
+
+students:
+  - align: left
+    image: members/yash.jpg
+    content: about_yash.md
+    image_circular: true
+    
+  - align: left
+    image: members/aakash.jpg
+    content: about_aakash.md
+    image_circular: true
+
+  - align: left
+    image: members/priyansh.jpg
+    content: about_priyansh.md
+    image_circular: true
+
+  - align: left
+    image: members/romit.jpg
+    content: about_romit.md
+    image_circular: true
+
+  - align: left
+    image: members/niladri.jpg
+    content: about_niladri.md
+    image_circular: true
+
+  - align: left
+    image: members/prasana.jpg
+    content: about_prasana.md
+    image_circular: true
+
+  - align: left
+    image: members/puskar.jpg
+    content: about_puskar.md
+    image_circular: true
+
 ---
