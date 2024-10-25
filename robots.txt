@@ -1,1 +1,1 @@
-Sitemap: https://respailab.github.io/sitemap.xml
+Sitemap: https://alshedivat.github.io/al-folio/sitemap.xml
