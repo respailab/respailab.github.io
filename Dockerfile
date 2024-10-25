@@ -11,6 +11,8 @@ RUN apt-get update -y && apt-get install -y --no-install-recommends \
     zlib1g-dev \
     jupyter-nbconvert \
     inotify-tools procps && \
+    build-essential \
+    libv8-dev \
     apt-get clean && rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/*
 
 
@@ -34,7 +36,7 @@ WORKDIR /srv/jekyll
 
 RUN bundle install --no-cache
 # && rm -rf /var/lib/gems/3.1.0/cache
-EXPOSE 8080
+EXPOSE 8020
 
 COPY bin/entry_point.sh /tmp/entry_point.sh
 
