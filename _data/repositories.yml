@@ -1,7 +1,14 @@
 github_users:
-  - murari023
-  - umakantamaharana
+  - torvalds
+  - alshedivat
+
+repo_description_lines_max: 2
 
 github_repos:
-  - murari023/awesome-background-subtraction
-  - murari023/awesome-aerial-object-detection
+  - alshedivat/al-folio
+  - jekyll/jekyll
+  - twbs/bootstrap
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - mathjax/MathJax
+  - jpswalsh/academicons
