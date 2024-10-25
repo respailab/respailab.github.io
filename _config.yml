@@ -128,7 +128,7 @@ permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: False
 
 related_blog_posts:
   enabled: false
