@@ -21,9 +21,12 @@
   text-rendering: auto;
   line-height: 1;
 }
+.ai-dblp:before {
+  content: "\e94f";
+}
 .ai-google-scholar:before {
   content: "\e9d4";
 }
-.ai-inspire:before {
-  content: "\e9e9";
+.ai-orcid:before {
+  content: "\e9d9";
 }

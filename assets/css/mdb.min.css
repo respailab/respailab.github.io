@@ -69,9 +69,6 @@
 .white {
   background-color: #fff !important;
 }
-.danger-color-dark {
-  background-color: #c00 !important;
-}
 .hoverable {
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -203,6 +200,36 @@ a.waves-light {
  *
  * Copyright (c) 2018 Daniel Eden
  */
+.animated {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+.animated.infinite {
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+}
+.animated.fast {
+  -webkit-animation-duration: 800ms;
+  animation-duration: 800ms;
+}
+.animated.faster {
+  -webkit-animation-duration: 500ms;
+  animation-duration: 500ms;
+}
+.animated.slow {
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
+}
+@media (prefers-reduced-motion) {
+  .animated {
+    -webkit-transition: none !important;
+    transition: none !important;
+    -webkit-animation: unset !important;
+    animation: unset !important;
+  }
+}
 @-webkit-keyframes fadeIn {
   from {
     opacity: 0;
@@ -218,6 +245,10 @@ a.waves-light {
   to {
     opacity: 1;
   }
+}
+.fadeIn {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
 }
 @-webkit-keyframes fadeInDown {
   from {
@@ -2921,6 +2952,9 @@ a.waves-light {
     0 5px 11px 0 rgba(0, 0, 0, 0.18),
     0 4px 15px 0 rgba(0, 0, 0, 0.15);
 }
+.btn.btn-block {
+  margin: inherit;
+}
 .btn.btn-sm {
   padding: 0.5rem 1.6rem;
   font-size: 0.64rem;
@@ -3156,13 +3190,6 @@ a.btn:not([href]):not([tabindex]):hover {
     0 2px 5px 0 rgba(0, 0, 0, 0.16),
     0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
-.navbar .breadcrumb {
-  padding: 0.3rem 0 0 1rem;
-  margin: 0;
-  font-size: 15px;
-  font-weight: 300;
-  background-color: inherit;
-}
 .navbar .navbar-toggler {
   border-width: 0;
   outline: 0;
@@ -3206,68 +3233,42 @@ a.btn:not([href]):not([tabindex]):hover {
     width: 22rem;
   }
 }
-.navbar.navbar-light .breadcrumb .nav-item .nav-link,
+
 .navbar.navbar-light .navbar-nav .nav-item .nav-link {
   color: #000;
   -webkit-transition: 0.35s;
   transition: 0.35s;
 }
-.navbar.navbar-light .breadcrumb .nav-item .nav-link:hover,
+
 .navbar.navbar-light .navbar-nav .nav-item .nav-link:hover {
   color: rgba(0, 0, 0, 0.7);
 }
-.navbar.navbar-light .breadcrumb .nav-item.active > .nav-link,
+
 .navbar.navbar-light .navbar-nav .nav-item.active > .nav-link {
   background-color: rgba(0, 0, 0, 0.1);
 }
-.navbar.navbar-light .breadcrumb .nav-item.active > .nav-link:hover,
+
 .navbar.navbar-light .navbar-nav .nav-item.active > .nav-link:hover {
   color: #000;
 }
 .navbar.navbar-light .navbar-toggler {
   color: #000;
 }
-.pagination .page-item.active .page-link {
-  color: #fff;
-  background-color: #4285f4;
-  border-radius: 0.125rem;
-  -webkit-box-shadow:
-    0 2px 5px 0 rgba(0, 0, 0, 0.16),
-    0 2px 10px 0 rgba(0, 0, 0, 0.12);
-  box-shadow:
-    0 2px 5px 0 rgba(0, 0, 0, 0.16),
-    0 2px 10px 0 rgba(0, 0, 0, 0.12);
-  -webkit-transition: all 0.2s linear;
-  transition: all 0.2s linear;
-}
-.pagination .page-item.active .page-link:hover {
-  background-color: #4285f4;
-}
-.pagination .page-item.disabled .page-link {
-  color: #868e96;
-}
-.pagination .page-item .page-link {
-  font-size: 0.9rem;
-  color: #212529;
-  background-color: transparent;
-  border: 0;
-  outline: 0;
-  -webkit-transition: all 0.3s linear;
-  transition: all 0.3s linear;
-}
-.pagination .page-item .page-link:hover {
-  background-color: #eee;
-  border-radius: 0.125rem;
-  -webkit-transition: all 0.3s linear;
-  transition: all 0.3s linear;
-}
-.pagination .page-item .page-link:focus {
-  background-color: transparent;
-  -webkit-box-shadow: none;
-  box-shadow: none;
-}
-.pagination.pagination-lg .page-item .page-link {
-  font-size: 1rem;
+@media (min-width: 600px) {
+  .navbar.scrolling-navbar {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    -webkit-transition:
+      background 0.5s ease-in-out,
+      padding 0.5s ease-in-out;
+    transition:
+      background 0.5s ease-in-out,
+      padding 0.5s ease-in-out;
+  }
+  .navbar.scrolling-navbar .navbar-nav > li {
+    -webkit-transition-duration: 1s;
+    transition-duration: 1s;
+  }
 }
 .badge {
   color: #fff !important;
@@ -3288,16 +3289,6 @@ body.modal-open .fixed-top {
 }
 body.modal-open .fixed-bottom {
   padding-right: 0 !important;
-}
-.modal-dialog .modal-content {
-  border: 0;
-  border-radius: 0.125rem;
-  -webkit-box-shadow:
-    0 5px 11px 0 rgba(0, 0, 0, 0.18),
-    0 4px 15px 0 rgba(0, 0, 0, 0.15);
-  box-shadow:
-    0 5px 11px 0 rgba(0, 0, 0, 0.18),
-    0 4px 15px 0 rgba(0, 0, 0, 0.15);
 }
 .modal {
   padding-right: 0 !important;
@@ -3394,4 +3385,26 @@ table.table-sm th,
 table.table-sm td {
   padding-top: 0.6rem;
   padding-bottom: 0.6rem;
+}
+.treeview .rotate {
+  margin-top: 0.2rem;
+  font-size: 0.8rem;
+  vertical-align: text-top;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-transition: all 0.1s linear;
+  transition: all 0.1s linear;
+}
+.treeview .rotate.down {
+  -webkit-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.treeview .active {
+  display: block;
+}
+.treeview ul {
+  list-style-type: none;
 }
