@@ -1,3 +1,3 @@
-## [Dr. Murari Mandal](https://murarimandal.github.io/) 
+## [Dr. Murari Mandal](https://murarimandal.github.io/)
 
 Asst. Professor
