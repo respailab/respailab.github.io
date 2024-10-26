@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Ayush](https://respailab.github.io/people/) joins EPFL, Switzerland as a PhD Candidate. 
+[Ayush](https://respailab.github.io/people/) joins EPFL, Switzerland as a PhD Candidate.
