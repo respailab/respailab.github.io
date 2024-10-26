@@ -17,4 +17,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to our research lab, led by [Dr. Murari Mandal](ttps://murarimandal.github.io/), we are dedicated to advancing the field of responsible AI. Our team explores crucial aspects of AI such as privacy, machine unlearning, data valuation, synthetic data, and generative AI. Through innovative research and collaboration, we aim to develop ethical, regulatable AI technologies that prioritize user privacy and data integrity, ensuring a fair and transparent digital future.
+Welcome to our research lab, led by [Dr. Murari Mandal](https://murarimandal.github.io/), we are dedicated to advancing the field of responsible AI. Our team explores crucial aspects of AI such as privacy, machine unlearning, data valuation, synthetic data, and generative AI. Through innovative research and collaboration, we aim to develop ethical, regulatable AI technologies that prioritize user privacy and data integrity, ensuring a fair and transparent digital future.

@@ -32,7 +32,7 @@ students:
     image: members/yash.jpg
     content: about_yash.md
     image_circular: true
-    
+
   - align: left
     image: members/aakash.jpg
     content: about_aakash.md
@@ -62,5 +62,4 @@ students:
     image: members/puskar.jpg
     content: about_puskar.md
     image_circular: true
-
 ---

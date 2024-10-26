@@ -2,7 +2,7 @@
 layout: page
 title: Research Grants
 permalink: /projects/
-description:
+description: Funded research grats
 nav: true
 nav_order: 3
 display_categories: [funded]
