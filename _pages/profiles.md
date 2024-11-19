@@ -62,4 +62,24 @@ students:
     image: members/puskar.jpg
     content: about_puskar.md
     image_circular: true
+
+  - align: left
+    image: members/rishav.png
+    content: about_rishav.md
+    image_circular: true
+
+  - align: left
+    image: members/image.png
+    content: about_debdeeb.md
+    image_circular: true
+
+  - align: left
+    image: members/arka.jpg
+    content: about_arka.md
+    image_circular: true
+
+  - align: left
+    image: members/abhisek.jpeg
+    content: about_abhisek.md
+    image_circular: true
 ---
