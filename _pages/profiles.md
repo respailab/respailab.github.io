@@ -82,4 +82,9 @@ students:
     image: members/abhisek.jpeg
     content: about_abhisek.md
     image_circular: true
+
+  - align: left
+    image: members/soham.jpg
+    content: about_soham.md
+    image_circular: true
 ---
