@@ -3,6 +3,19 @@
 
 @string{aps = {American Physical Society,}}
 
+@misc{debdeepalu,
+  title={ALU: Agentic LLM Unlearning}, 
+  author={Debdeep Sanyal and Murari Mandal},
+  year={2025},
+  eprint={2502.00406},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI},
+  url={https://arxiv.org/abs/2502.00406},
+  pdf={https://arxiv.org/abs/2502.00406},
+  abstract={Information removal or suppression in large language models (LLMs) is a desired functionality, useful in AI regulation, legal compliance, safety, and privacy. LLM unlearning methods aim to remove information on demand from LLMs. Current LLM unlearning methods struggle to balance the unlearning efficacy and utility due to the competing nature of these objectives. Keeping the unlearning process computationally feasible without assuming access to the model weights is an overlooked area. We present the first agentic LLM unlearning (ALU) method, a multi-agent, retrain-free, model-agnostic approach to LLM unlearning that achieves effective unlearning while preserving the utility. Our ALU framework unlearns by involving multiple LLM agents, each designed for a specific step in the unlearning process, without the need to update model weights for any of the agents in the framework. Users can easily request any set of unlearning instances in any sequence, and ALU seamlessly adapts in real time. This is facilitated without requiring any changes in the underlying LLM model. Through extensive experiments on established benchmarks (TOFU, WMDP, WPU) and jailbreaking techniques (many shot, target masking, other languages), we demonstrate that ALU consistently stands out as the most robust LLM unlearning framework among current state-of-the-art methods while incurring a low constant-time cost. We further highlight ALU's superior performance compared to existing methods when evaluated at scale. Specifically, ALU is assessed on up to 1000 unlearning targets, exceeding the evaluation scope of all previously proposed LLM unlearning methods.},
+  preview= {alu.png}
+}
+
 @article{Chundawat2024ConDaFF,
   title={ConDa: Fast Federated Unlearning with Contribution Dampening},
   author={Vikram S Chundawat and Pushkar Niroula and Prasanna Dhungana and Stefan Schoepf and Murari Mandal and Alexandra Brintrup},
@@ -94,7 +107,7 @@
 }
 
 @misc{sinha2024multimodalrecommendationunlearning,
-  title={Multi-Modal Recommendation Unlearning}, 
+  title={Multi-Modal Recommendation Unlearning for Legal, Licensing, and Modality Constraints}, 
   author={Yash Sinha and Murari Mandal and Mohan Kankanhalli},
   year={2024},
   eprint={2405.15328},
