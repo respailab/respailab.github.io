@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-RespaiLAB offers "Introduction to Large Language Models Course" at KiiT. Course Link - [https://respailab.github.io/llm-101.respailab.github.io](https://respailab.github.io/llm-101.respailab.github.io/)
+RespAI Lab offering "Introduction to Large Language Models" at KIIT Bhubaneswar this Spring 2025. Course Website - [https://respailab.github.io/llm-101.respailab.github.io](https://respailab.github.io/llm-101.respailab.github.io/)
