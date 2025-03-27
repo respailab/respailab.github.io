@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: "Welcome to the RespAI Lab!: Our Research Goal is Ethical Innovation for a Transparent, Privacy-Respecting, and Safe AI Future."
+subtitle: "Welcome to the RespAI Lab!"
 
 profile:
   align: left
@@ -17,9 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to our research lab, led by [Dr. Murari Mandal](https://murarimandal.github.io/), we are dedicated to advancing the field of responsible AI. Our team explores crucial aspects of AI such as privacy, machine unlearning, data valuation, synthetic data, and generative AI. Through innovative research and collaboration, we aim to develop ethical, regulatable AI technologies that prioritize user privacy and data integrity, ensuring a fair and transparent digital future.
+Welcome to our research lab, led by [Dr. Murari Mandal](https://murarimandal.github.io/). At RespAI Lab, we focus on advancing large language models (LLMs) by addressing challenges related to long-content processing, inference efficiency, interpretability, and alignment. Our research also explores synthetic persona creation, regulatory issues, and innovative methods for model merging, knowledge verification, and unlearning.
 
-## <b>Current Research</b>
+## <b>Ongoing Research at RespAI Lab</b>
 - Addressing Challenges in Long-Content Processing for LLMs: Investigating solutions to performance bottlenecks, memory limitations, latency issues, and information loss when dealing with extended content lengths in large language models (LLMs).
   
 - Optimizing LLM Inference Efficiency: Developing strategies to reduce the computational cost of LLM inference, focusing on improving speed, memory usage, and leveraging smaller models for complex tasks.
