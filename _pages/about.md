@@ -28,10 +28,6 @@ Welcome to our research lab, led by [Dr. Murari Mandal](https://murarimandal.git
 ## <b>Ongoing Research at RespAI Lab</b>
 - <b>Advanced Reasoning in LLMs:</b> Exploring techniques to enhance complex reasoning abilities in LLMs, focusing on multi-step problem solving, logical inference, and contextual understanding to improve decision-making and generate more reliable outcomes.
 
-- <b>Addressing Challenges in Long-Content Processing for LLMs:</b> Investigating solutions to performance bottlenecks, memory limitations, latency issues, and information loss when dealing with extended content lengths in large language models (LLMs).
-  
-- <b>Optimizing LLM Inference Efficiency:</b> Developing strategies to reduce the computational cost of LLM inference, focusing on improving speed, memory usage, and leveraging smaller models for complex tasks.
-
 - <b>Interpretability and Alignment of Generative AI Models:</b> Exploring the interpretability of generative AI models, aligning their outputs with human values, and addressing the issue of hallucinations in model responses.
 
 - <b>Synthetic Persona and Society Creation:</b> Creating and studying synthetic personalities, communities, and societies within LLMs, and analyzing the behaviors and dynamics of these synthetic constructs.
