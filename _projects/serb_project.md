@@ -59,6 +59,18 @@ Since the project's inception in January 2024, significant strides have been mad
 
 As we move forward, our focus will be on refining these algorithms, conducting extensive testing, and ensuring their scalability and applicability in real-world scenarios. Collaboration with industry partners and continued support from SERB will be instrumental in achieving our objectives.
 
+## Published papers
+
+| Paper Title | Paper Link | Publication Details |
+|---|---|---|
+| EcoVal: An Efficient Data Valuation Framework for Machine Learning | [https://arxiv.org/pdf/2402.09288](https://arxiv.org/pdf/2402.09288) | KDD 2025 |
+| Multi-Modal Recommendation Unlearning for Legal, Licensing, and Modality Constraints | [https://ojs.aaai.org/index.php/AAAI/article/view/33367/35522](https://ojs.aaai.org/index.php/AAAI/article/view/33367/35522) | AAAI 2025 |
+| Distill to Delete: Unlearning in Graph Networks with Knowledge Distillation | [https://arxiv.org/pdf/2309.16173](https://arxiv.org/pdf/2309.16173) | IEEE TNNLS |
+| UnStar: Unlearning with Self-Taught Anti-Sample Reasoning for LLMs | [https://arxiv.org/pdf/2410.17050](https://arxiv.org/pdf/2410.17050) | TMLR |
+| A Unified Framework for Continual Learning and Machine Unlearning | [https://arxiv.org/pdf/2408.11374v1](https://arxiv.org/pdf/2408.11374v1) | arXiv |
+| Unlearning or Concealment? A Critical Analysis and Evaluation Metrics for Unlearning in Diffusion Models | [https://arxiv.org/pdf/2409.05668](https://arxiv.org/pdf/2409.05668) | arXiv |
+| ALU: Agentic LLM Unlearning | [https://arxiv.org/pdf/2502.00406](https://arxiv.org/pdf/2502.00406) | arXiv |
+
 ## Related Papers
 
 To further explore the concepts and advancements in machine unlearning, you can refer to the following related papers:
