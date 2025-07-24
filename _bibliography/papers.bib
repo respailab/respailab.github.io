@@ -43,13 +43,16 @@
       title={Guardians of Generation: Dynamic Inference-Time Copyright Shielding with Adaptive Guidance for AI Image Generation}, 
       author={Soham Roy and Abhishek Mishra and Shirish Karande and Murari Mandal},
       year={2025},
+      conf={U&ME Workshop, ICCV-2025},
       eprint={2503.16171},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2503.16171}, 
-      pdf={https://arxiv.org/pdf/2503.16171}, 
+      pdf={https://arxiv.org/pdf/2503.16171},
+      abstract={Modern text-to-image generative models can inadvertently reproduce copyrighted content memorized in their training data, raising serious concerns about potential copyright infringement. We introduce Guardians of Generation, a model agnostic inference time framework for dynamic copyright shielding in AI image generation. Our approach requires no retraining or modification of the generative model weights, instead integrating seamlessly with existing diffusion pipelines. It augments the generation process with an adaptive guidance mechanism comprising three components: a detection module, a prompt rewriting module, and a guidance adjustment module. The detection module monitors user prompts and intermediate generation steps to identify features indicative of copyrighted content before they manifest in the final output. If such content is detected, the prompt rewriting mechanism dynamically transforms the user's prompt by sanitizing or replacing references that could trigger copyrighted material while preserving the prompt's intended semantics. The adaptive guidance module adaptively steers the diffusion process away from flagged content by modulating the model's sampling trajectory. Together, these components form a robust shield that enables a tunable balance between preserving creative fidelity and ensuring copyright compliance. We validate our method on a variety of generative models such as Stable Diffusion, SDXL, and Flux, demonstrating substantial reductions in copyrighted content generation with negligible impact on output fidelity or alignment with user intent. This work provides a practical, plug-and-play safeguard for generative image models, enabling more responsible deployment under real-world copyright constraints.}, 
       sourcecode={https://respailab.github.io/gog/},
       preview={gog.png},
+      selected={true},
 }
 
 @misc{maharana2025rightpredictionwrongreasoning,
@@ -72,13 +75,15 @@
   title={ALU: Agentic LLM Unlearning}, 
   author={Debdeep Sanyal and Murari Mandal},
   year={2025},
+  conf={COLM-2025}
   eprint={2502.00406},
   archivePrefix={arXiv},
   primaryClass={cs.AI},
   url={https://arxiv.org/abs/2502.00406},
   pdf={https://arxiv.org/abs/2502.00406},
   abstract={Information removal or suppression in large language models (LLMs) is a desired functionality, useful in AI regulation, legal compliance, safety, and privacy. LLM unlearning methods aim to remove information on demand from LLMs. Current LLM unlearning methods struggle to balance the unlearning efficacy and utility due to the competing nature of these objectives. Keeping the unlearning process computationally feasible without assuming access to the model weights is an overlooked area. We present the first agentic LLM unlearning (ALU) method, a multi-agent, retrain-free, model-agnostic approach to LLM unlearning that achieves effective unlearning while preserving the utility. Our ALU framework unlearns by involving multiple LLM agents, each designed for a specific step in the unlearning process, without the need to update model weights for any of the agents in the framework. Users can easily request any set of unlearning instances in any sequence, and ALU seamlessly adapts in real time. This is facilitated without requiring any changes in the underlying LLM model. Through extensive experiments on established benchmarks (TOFU, WMDP, WPU) and jailbreaking techniques (many shot, target masking, other languages), we demonstrate that ALU consistently stands out as the most robust LLM unlearning framework among current state-of-the-art methods while incurring a low constant-time cost. We further highlight ALU's superior performance compared to existing methods when evaluated at scale. Specifically, ALU is assessed on up to 1000 unlearning targets, exceeding the evaluation scope of all previously proposed LLM unlearning methods.},
-  preview= {alu.png}
+  preview= {alu.png},
+  selected={true},
 }
 
 @article{Chundawat2024ConDaFF,
