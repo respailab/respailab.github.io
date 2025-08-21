@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Paper accepted](https://arxiv.org/abs/2505.23788) to the findings of EMNLP 2025 Findings, Suzhou, China [Acceptance Rate - 17.35%]. Congratulations Aakash 🎉🎉
+[Paper accepted](https://arxiv.org/abs/2505.23788) in EMNLP 2025 Findings, Suzhou, China [Acceptance Rate - 17.35%]. Congratulations Aakash 🎉🎉
