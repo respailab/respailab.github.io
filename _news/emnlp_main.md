@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Investigating Pedagogical Teacher and Student LLM Agents: Genetic Adaptation Meets Retrieval Augmented Generation Across Learning Style](https://arxiv.org/abs/2505.19173) — accepted to EMNLP 2025 Main (acceptance rate of 22.16%) 🎉🎉
+[Paper accepted](https://arxiv.org/abs/2505.19173) to the EMNLP 2025 Main Track, Suzhou, China [Acceptance Rate - 22.16%]. Congratulations Debdeep 🎉🎉
